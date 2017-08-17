@@ -1,0 +1,21 @@
+body{
+
+	background-color: #fff;
+	border-radius: 10px;
+	border-color: #777;
+	border-width: 2px;
+	border-style: solid;
+	max-width: 600px;
+	margin: 5px;
+	color: 000;
+}
+
+h1{
+    font-size: 50px;
+}
+p{
+	line-height: 25px;
+	margin :50px;
+	font-weight: bold;
+}
+
